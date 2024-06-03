@@ -28,3 +28,4 @@ C:\temp\tmp1\learningapp\obj\Debug\net8.0\refint\learningapp.dll
 C:\temp\tmp1\learningapp\obj\Debug\net8.0\learningapp.pdb
 C:\temp\tmp1\learningapp\obj\Debug\net8.0\learningapp.genruntimeconfig.cache
 C:\temp\tmp1\learningapp\obj\Debug\net8.0\ref\learningapp.dll
+C:\temp\tmp1\learningapp\obj\Debug\net8.0\learningapp.sourcelink.json
